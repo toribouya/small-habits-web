@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <main className="p-6">
       <h1 className="text-3xl font-bold">
-        習慣化の最初の一歩を踏み出そう
+        習慣化の最初の一歩を踏み出しちゃった笑
       </h1>
 
       <p className="mt-4">
